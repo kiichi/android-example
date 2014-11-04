@@ -50,7 +50,7 @@ public class MyActivity extends Activity {
         }
 
         //---------------------------------------------------------------------------------
-        // Binding 1 - data and interval button
+        // Binding 1 - data and internal button
         mAdapter = new SimpleAdapter(
                 this.getApplicationContext(),
                 mList,
